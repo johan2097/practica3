@@ -1,3 +1,5 @@
-# softka3
 
-Taller de ciclos de sofka donde se ejecuta distntos ejercicios en pseint
+practica3
+
+Trabajo hecho con pseint acorde a los cincos puntos propuestos.
+
